@@ -26,6 +26,7 @@ Using OV2640 Mini:
 Then, uncomment the correct camera module 
 Example:
 Using OV2640 Mini:
+
 //Step 2: Select one of the camera module, only one at a time
 #if (defined(ARDUCAM_SHIELD_REVC) || defined(ARDUCAM_SHIELD_V2))
 	//#define OV7660_CAM
