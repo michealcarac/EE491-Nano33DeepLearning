@@ -6,7 +6,7 @@ Provides files to compile the models and code to the arduino.
 This has been tested with a Nano 33 Ble Sense and a OV260 arducam. 
 - Provided by Micheal Caracciolo and Owen Casciotti 
 
-# Wake word section:
+# Wake Word section:
 Provides the wake word trainer in either Colab or Jupyter Notebook.
 - Provided by Micheal Caracciolo 
 
