@@ -1,7 +1,7 @@
 # Details:
 This repository stores the files required to run the full model and how to train it.
 
-# General:
+# Final_Project:
 Provides files to compile the models and code to the arduino.
 This has been tested with a Nano 33 Ble Sense and a OV260 arducam. 
 - Provided by Micheal Caracciolo and Owen Casciotti - 
