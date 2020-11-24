@@ -11,7 +11,6 @@ Install it by putting the Arducam folder into your Arduino's Libraries folder.
 Once you install it, you will need to edit the "memorysaver.h" file. 
 
 Edit it to uncomment the model of Arducam that you are using
-Example:
 ```
 Using OV2640 Mini:
 
@@ -25,7 +24,6 @@ Using OV2640 Mini:
 //#define OV5640_MINI_5MP_PLUS
 ```
 Then, uncomment the correct camera module 
-Example:
 ```
 Using OV2640 Mini:
 
