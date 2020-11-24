@@ -4,7 +4,7 @@ In our testing, we used a specific commit of the Tensorflow github for our train
 '''
 Commit: 1b215ce. 
 '''
-([Github](https://github.com/tensorflow/tensorflow/blob/1b215ce9f3236d2de1c679530332ffe773ac4168/tensorflow/lite/micro/examples/micro_speech/-train/train_micro_speech_model.ipynb)
+[Github](https://github.com/tensorflow/tensorflow/blob/1b215ce9f3236d2de1c679530332ffe773ac4168/tensorflow/lite/micro/examples/micro_speech/-train/train_micro_speech_model.ipynb)
 
 Train the model in the cloud using Google Colaboratory or locally using a
 Jupyter Notebook.
