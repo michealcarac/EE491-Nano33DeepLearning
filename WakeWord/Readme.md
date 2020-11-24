@@ -1,9 +1,11 @@
 # To Train
 
 In our testing, we used a specific commit of the Tensorflow github for our training. 
+
 ` ` `
-Commit: 1b215ce. 
+Commit: 1b215ce 
 ` ` `
+
 [Github](https://github.com/tensorflow/tensorflow/blob/1b215ce9f3236d2de1c679530332ffe773ac4168/tensorflow/lite/micro/examples/micro_speech/-train/train_micro_speech_model.ipynb)
 
 Train the model in the cloud using Google Colaboratory or locally using a
@@ -17,6 +19,7 @@ Jupyter Notebook.
     <a target="_blank" href="https://github.com/tensorflow/tensorflow/blob/1b215ce9f3236d2de1c679530332ffe773ac4168/tensorflow/lite/micro/examples/micro_speech/train/train_micro_speech_model.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />Jupyter Notebook</a>
   </td>
 </table>
+
 
 *Estimated Training Time: ~2 Hours.*
 
