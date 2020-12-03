@@ -12,6 +12,6 @@ Clone the git, https://github.com/opencv/opencv
 # test.py:
 Used to train the model. Ensure it is pointing to the correct directory with the photos that you will need to input.
 
-# Picture_Taking.py
+# ImageCapture.py
 Used as a python script to take pictures with some sort of camera module on your computer. 
 Change the folder name to desired name.
