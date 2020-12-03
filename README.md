@@ -10,6 +10,6 @@ This has been tested with a presoldered Nano 33 Ble Sense and a OV260 arducam.
 Provides the wake word trainer in either Colab or Jupyter Notebook.
 - Provided by Micheal Caracciolo @michealcarac
 
-# Photo Detection section: 
+# Image Recognition section: 
 Provides the files to train the photo detection model to be implemented in any project. 
 - Provided by Owen Casciotti @cascioo
